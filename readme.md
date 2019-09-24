@@ -1,4 +1,4 @@
 # ぐるなびAPIの活用
-## クエリパラメータ(ゲットパラメータ)
-URLの後半に続く<br>
+## QueryParameter(GetParameter)
+URLの後半に続くやつ<br>
 https:～?keyid=～&freeword=～<br>
